@@ -17,3 +17,6 @@ body {
   /* overflow-y: auto; */
   /* height: 100vh; */
 }
+.navbar-brand {
+  font-size: 40px;
+}
