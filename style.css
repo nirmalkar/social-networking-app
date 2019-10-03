@@ -1,9 +1,19 @@
-.body{
-   margin: 0;
-   padding: 0;
+body {
+  font-family: "Roboto Slab", serif;
 }
-
-.nav-head{
-    height: 10vh;
-    background: red;
+.nav-head {
+  height: 10vh;
+  background: red;
+}
+.sticky {
+  position: sticky;
+  top: 100px;
+}
+.stories {
+  overflow-y: auto;
+  height: 40vh;
+}
+.posts {
+  /* overflow-y: auto; */
+  /* height: 100vh; */
 }
