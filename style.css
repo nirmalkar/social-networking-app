@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto Slab", serif;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 .nav-head {
   height: 10vh;
@@ -19,6 +19,7 @@ body {
 }
 .navbar-brand {
   font-size: 40px;
+  font-family: "Pacifico", cursive;
 }
 .user-profile-link {
   color: black;
