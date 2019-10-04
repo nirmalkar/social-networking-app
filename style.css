@@ -7,11 +7,11 @@ body {
 }
 .sticky {
   position: sticky;
-  top: 100px;
+  top: 90px;
 }
 .stories {
   overflow-y: auto;
-  height: 40vh;
+  height: 33vh;
 }
 .posts {
   /* overflow-y: auto; */
