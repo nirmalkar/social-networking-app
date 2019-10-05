@@ -11,7 +11,7 @@ body {
 }
 .stories {
   overflow-y: auto;
-  height: 33vh;
+  height: 34vh;
 }
 .posts {
   /* overflow-y: auto; */
