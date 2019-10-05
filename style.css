@@ -61,4 +61,6 @@ body {
 .btn-color {
   background: rgb(219, 213, 213);
 }
-.;
+.small-font-size {
+  font-size: 16px;
+}
