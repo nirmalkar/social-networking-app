@@ -21,8 +21,11 @@ body {
   font-size: 40px;
   font-family: "Pacifico", cursive;
 }
-.user-profile-link {
+.link-in-black {
   color: black;
+}
+.link-in-primary {
+  color: #0275db;
 }
 .smaller-font {
   font-size: 12px;
