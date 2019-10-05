@@ -11,7 +11,7 @@ body {
 }
 .stories {
   overflow-y: auto;
-  height: 34vh;
+  height: 33vh;
 }
 .posts {
   /* overflow-y: auto; */
@@ -63,6 +63,9 @@ body {
 }
 .small-font-size {
   font-size: 16px;
+}
+.smaller-font-size {
+  font-size: 12;
 }
 .samllest-font-size {
   font-size: 12px;
