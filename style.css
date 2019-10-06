@@ -70,3 +70,6 @@ body {
 .samllest-font-size {
   font-size: 12px;
 }
+.btn-block {
+  border-radius: 0px;
+}
